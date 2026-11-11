@@ -179,4 +179,4 @@ This repository serves as the official landing page for hdrview. The software is
 **Get the most recent version of hdrview today!**
 
 ---
-**Last updated:** 2026-11-10 22:42:40 UTC
+**Last updated:** 2026-11-11 02:27:39 UTC
